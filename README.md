@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @esmailkurd
-- 👀 I’m interested in programing and trade
-- 🌱 I’m currently learning vip software developer at mohsen modhej Academy
-- 💞️ I’m looking to collaborate on windows programing
-- 📫 How to reach me telegram : https://t.me/esmailkurd , insta : developer_kurd , email : esmailprogramer@gmail.com 
+- 👋 Hi, I’m Esmail Zolfghari
+- 👀 I’m interested in programing and cyber security 
+- 📫 How to reach me :
+- telegram : https://t.me/Anin7vip  Email : esmailprogramer@gmail.com 
 
 <!---
 esmailkurd/esmailkurd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
